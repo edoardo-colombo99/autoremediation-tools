@@ -6,29 +6,21 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To start using this project first of all you have to create an ansible project for each customer (tricode)
+
+The project must be named like this(where xxx is the tricode of customer like bsm, wti, weu):
+.. code-block:: console
+
+   xxx_project_healthscan_autoremediation_tools
+
+The project must be linked to this out github repository at main branch
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+https://github.kyndryl.net/KIIS-Autoremediation/autoremediation-ansible-setup.git
 
-Creating recipes
-----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+A credential for Github must be used in order to clone the code. The project must look like this:
 
-.. autofunction:: lumache.get_random_ingredients
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
 
