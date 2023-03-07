@@ -1,20 +1,22 @@
-Welcome to Lumache's documentation!
+Welcome to KIIS Autoremediation documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**KIIS Autoremediation** (/kis autoremediescion/) is a Project created by the KIIS PHC Team which remediate HC Violations in an automatic and effort less way using GCM templates and Ansible
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+At the moment of writing these OS and MW are supported:
 
-.. note::
+IIS - Internet Information Server on Windows OS
+ITM - IBM Tivoli Monitoring Agent on AIX/RHEL/VIOs and Windows OS
+SSH - OPENSSH/IBM SSH Server on AIX/RHEL/VIOs
+SUDO - Remediation of SUDO techspec on AIX/RHEL/VIOs
+HTTP - Apache/IBM HTTP Server on AIX/RHEL
 
-   This project is under active development.
+On going remediation:
 
-Contents
---------
+RHEL OS 
+Windows OS
+AIX OS
+
 
 .. toctree::
 
