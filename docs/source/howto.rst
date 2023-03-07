@@ -27,5 +27,4 @@ There are 2 ways to specify this variable, one is from "extra variables" field. 
   .. image:: ansaibol-extravariables.png
   
 Or you can create a suvery like this:
-
   .. image:: survei.png
