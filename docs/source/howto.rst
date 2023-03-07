@@ -7,7 +7,7 @@ Prerequisites
 In order to run correctly these playbooks you have to:
 
 - Calibrate and Release GCM *Calibration,Remediation,Scan* JT for each OS /MW that you want to remediate
-- 
+- Creation of the "tools" project and its JT on ansible tower (you have to create one project and one job template for each tricode on the Tower)
 
 
 Remediation JOB Creation
