@@ -36,7 +36,7 @@ The JT must be named like this(where xxx is the tricode of customer like bsm, wt
 
 An "Ansible Tower" credential must be selected in order to gain Administrator privilegese to make api requestes, also the inventory must be selected. Without these 2 thinks the playbook execution will fail
 
-The JT must point to "projects.yml"
+The JT must point to "projects.yml" playbook
 
 The JT must look like this:
 
