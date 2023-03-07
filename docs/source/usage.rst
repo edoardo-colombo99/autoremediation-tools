@@ -18,7 +18,7 @@ The project must be linked to this out github repository at main branch
 
 .. code-block:: console
 
-https://github.kyndryl.net/KIIS-Autoremediation/autoremediation-ansible-setup.git
+   https://github.kyndryl.net/KIIS-Autoremediation/autoremediation-ansible-setup.git
 
 
 A credential for Github must be used in order to clone the code. The project must look like this:
