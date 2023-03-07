@@ -14,5 +14,22 @@ On going remediation:
   - RHEL OS 
   - Windows OS
   - AIX OS
+  
+if you need any help feel free to get in touch with us:
+
+  Developers:
+  
+  - Edoardo Colombo - mailto:edoardo.colombo@kyndryl.com
+  - Carlo Alberto Bocconi - mailto:carlo.alberto.bocconi@kyndryl.com
+  
+  Project Managers:
+  
+  - Marco Carrese mailto:marco.carrese@kyndryl.com
+  - Riccardo Bramani mailto:riccardo.bramani@kyndryl.com
+  
+  For any compliance question:
+  
+  - Riccardo Bramani mailto:riccardo.bramani@kyndryl.com
+  
 
 
