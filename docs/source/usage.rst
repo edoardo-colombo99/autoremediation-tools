@@ -22,5 +22,7 @@ https://github.kyndryl.net/KIIS-Autoremediation/autoremediation-ansible-setup.gi
 
 A credential for Github must be used in order to clone the code. The project must look like this:
 
+.. image:: img/ansaibol-touer.png
+
 
 
