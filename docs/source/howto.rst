@@ -28,4 +28,4 @@ There are 2 ways to specify this variable, one is from "extra variables" field. 
   
 Or you can create a suvery like this:
 
-  .. image:: survey.png
+  .. image:: survei.png
