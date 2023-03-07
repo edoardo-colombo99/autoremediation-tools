@@ -15,8 +15,7 @@ On going remediation:
   - Windows OS
   - AIX OS
   
-if you need any help feel free to get in touch with us:
-
+If you need any help feel free to get in touch with us:
   Developers:
   
   - Edoardo Colombo - edoardo.colombo@kyndryl.com
