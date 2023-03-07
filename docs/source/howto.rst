@@ -24,7 +24,9 @@ At the moment of writing these projects can be specificated:
  - HTTP-UNIX
 
 There are 2 ways to specify this variable, one is from "extra variables" field. for example:
+
   .. image:: ansaibol-extravariables.png
   
-Or you can create a suvery like this:
+Or you can create a survey like this:
+
   .. image:: survei.png
