@@ -23,7 +23,7 @@ The project must be linked to this out github repository at main branch
 
 A credential for Github must be used in order to clone the code. The project must look like this:
 
-.. image:: /img/ansaibol-touer.png
+.. image:: ansaibol-touer.png
 
 
 After the project creation a jobtemplate "tools" must be created
@@ -40,4 +40,4 @@ The JT must point to "projects.yml" playbook
 
 The JT must look like this:
 
-.. image:: /img/ansaibol-gobtemplate.png
+.. image:: ansaibol-gobtemplate.png
