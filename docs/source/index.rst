@@ -20,7 +20,7 @@ if you need any help feel free to get in touch with us:
   Developers:
   
   - Edoardo Colombo - edoardo.colombo@kyndryl.com
-  - Carlo Alberto Bocconi - mcarlo.alberto.bocconi@kyndryl.com
+  - Carlo Alberto Bocconi - carlo.alberto.bocconi@kyndryl.com
   
   Project Managers:
   
